@@ -7,7 +7,9 @@
 Адрес репозитория: http://35.192.231.41/
 
 Использование на сторонней машине:
+
 vim /etc/apt/sources.list
+
   deb http://35.192.231.41/debian/ testing main contrib
 
 wget -O - -q http://35.192.231.41/otus.gpg.key | apt-key add -
