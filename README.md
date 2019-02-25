@@ -17,4 +17,5 @@ apt-get update
 apt-get install clogtail
 
 root@node-1:~# dpkg -l |grep clogta
+
 ii  clogtail                              0.3-1                             amd64        Log follower for periodic jobs
